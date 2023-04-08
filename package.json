@@ -1,6 +1,6 @@
 {
-  "name": "newman-slack-report",
-  "version": "1.0.1",
+  "name": "newman-reporter-slackadvanced",
+  "version": "1.2.0",
   "description": "Reporter to Slack for newman runs",
   "repository": {
     "type": "git",
